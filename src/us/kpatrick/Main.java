@@ -13,7 +13,7 @@ public class Main {
 
     /**
      * Main program start point
-     * @param args
+     * @param args base arguments getting loaded
      */
     public static void main(String[] args) {
 
