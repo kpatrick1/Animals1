@@ -27,7 +27,7 @@ public class Student extends Person implements Talkable {
     }
     /**
      * Get the students age
-     * @return int as students age
+     * @param age the age of the student
      */
     public void setAge(int age) {
         this.age = age;
